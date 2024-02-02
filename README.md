@@ -1,4 +1,4 @@
-# 🇲🇽 Mexico-Toy-Sales-Project
+# Mexico-Toy-Sales-Project
 
 ## 🚀 Welcome to My Power BI Project Repository 👩‍💻
 
