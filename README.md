@@ -1,6 +1,6 @@
 # Mexico-Toy-Sales-Project
 
-## 🚀 Welcome to My Power BI Project Repository 👩‍💻
+## 🚀 Welcome to My Power BI Project Repository on Mexico Toy Sales  👩‍💻
 
 In this Power BI project, I embarked on a journey of data exploration, leveraging DAX functions, Business Intelligence techniques, and innovative data visualization methods to unravel the mysteries hidden within the dataset.
 
